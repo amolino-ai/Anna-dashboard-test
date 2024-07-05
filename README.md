@@ -22,7 +22,7 @@ To get started with this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/dashboard-project.git
+   git clone https://github.com/amolino-ai/Anna-dashboard-test.git
    cd dashboard-project
 2. **Run commands to install and start the project:**
    ```bash
