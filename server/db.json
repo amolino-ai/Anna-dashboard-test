@@ -1,0 +1,89 @@
+{
+  "dashboardData":  [
+    {
+      "Name": "Teleword US",
+      "outstanding-actions-0": 4,
+      "outstanding-actions-1": 5,
+      "outstanding-actions-2": 2,
+      "outstanding-actions-3": 4,
+      "outstanding-actions-4": 2,
+      "outstanding-actions-5": 0,
+      "outstanding-actions-6": 0,
+      "Blockers": true,
+      "LastResponse": "1 July 2024",
+      "NextMilestone": "Setup meeting with legal",
+      "id": 1
+    },
+    {
+      "Name": "Barracuda",
+      "outstanding-actions-0": 4,
+      "outstanding-actions-1": 3,
+      "outstanding-actions-2": 5,
+      "outstanding-actions-3": 1,
+      "outstanding-actions-4": 1,
+      "outstanding-actions-5": 2,
+      "outstanding-actions-6": 1,
+      "Blockers": false,
+      "LastResponse": "30-Jun-24",
+      "NextMilestone": "Setup meeting with purchasing",
+      "id": 2
+    },
+    {
+      "Name": "Celestix",
+      "outstanding-actions-0": 1,
+      "outstanding-actions-1": 2,
+      "outstanding-actions-2": 2,
+      "outstanding-actions-3": 2,
+      "outstanding-actions-4": 3,
+      "outstanding-actions-5": 2,
+      "outstanding-actions-6": 3,
+      "Blockers": false,
+      "LastResponse": "30-Jun-24",
+      "NextMilestone": "Get MSA confirmed",
+      "id": 3
+    },
+    {
+      "Name": "SignalWire",
+      "outstanding-actions-0": 2,
+      "outstanding-actions-1": 3,
+      "outstanding-actions-2": 45,
+      "outstanding-actions-3": 6,
+      "outstanding-actions-4": 3,
+      "outstanding-actions-5": 2,
+      "outstanding-actions-6": 0,
+      "Blockers": true,
+      "LastResponse": "30-Jun-24",
+      "NextMilestone": "Setup meeting with purchasing",
+      "id": 4
+    },
+    {
+      "Name": "Trinamix",
+      "outstanding-actions-0": 1,
+      "outstanding-actions-1": 2,
+      "outstanding-actions-2": 4,
+      "outstanding-actions-3": 4,
+      "outstanding-actions-4": 3,
+      "outstanding-actions-5": 1,
+      "outstanding-actions-6": "",
+      "Blockers": true,
+      "LastResponse": "2-Jul-24",
+      "NextMilestone": "Setup meeting with purchasing",
+      "id": 5
+    },
+    {
+      "Name": "Telehealth",
+      "outstanding-actions-0": 2,
+      "outstanding-actions-1": 2,
+      "outstanding-actions-2": 2,
+      "outstanding-actions-3": 2,
+      "outstanding-actions-4": 2,
+      "outstanding-actions-5": 2,
+      "outstanding-actions-6": 1,
+      "Blockers": true,
+      "LastResponse": "3-Jul-24",
+      "NextMilestone": "Not setupup",
+      "id": 6
+    }
+  ]
+}
+  
